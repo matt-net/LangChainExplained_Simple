@@ -41,6 +41,9 @@ Feel free to contribute, report issues, or suggest improvements to enhance the f
 
 ## Example
 
+Let us ask Who was Steve Jobs and what is his age plus 5.
+The result would look like this:
+
 ```bash
 
 I should use a calculator to get the final answer
